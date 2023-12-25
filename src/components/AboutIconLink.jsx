@@ -1,7 +1,7 @@
 import { FaQuestion } from "react-icons/fa";
 import { Link } from "react-router-dom";
 
-function AboutLink() {
+function AboutIconLink() {
   return (
     <div className="about-link">
       <Link to="/about">
@@ -11,4 +11,4 @@ function AboutLink() {
   );
 }
 
-export default AboutLink;
+export default AboutIconLink;
