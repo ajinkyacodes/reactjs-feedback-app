@@ -51,3 +51,7 @@ npm run dev
 ```
 
 #### The Build Project Server should now be running at http://localhost:3000/ 
+
+## Live Demo
+
+Visit: [https://sprightly-torrone-eec1f8.netlify.app/](https://sprightly-torrone-eec1f8.netlify.app/)
